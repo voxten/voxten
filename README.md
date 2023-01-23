@@ -9,7 +9,14 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voxten&theme=onedark">
+</div>
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=voxten&theme=onedark">
 </div>
+
+
+
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/voxten/voxten/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/voxten/voxten/output/github-contribution-grid-snake.svg#gh-light-mode-only)
