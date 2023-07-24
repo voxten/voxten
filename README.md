@@ -4,11 +4,11 @@
 
 ## 💎Github Profile Contributions
 <span>
-  <img src="https://github-readme-stats.vercel.app/api?username=voxten&theme=onedark&show_icons=true&count_private=true&hide_title=true&rank_icon=github&hide_border=true" height="160px">
+  <img src="https://github-readme-stats.vercel.app/api?username=voxten&theme=onedark&show_icons=true&count_private=true&hide_title=true&rank_icon=github&hide_border=true" height="140px">
 </span>
 
 <span>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voxten&theme=onedark&hide_border=true" height="160px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voxten&theme=onedark&hide_border=true" height="140px">
 </span>
 
 ## 💻Most Used Language
