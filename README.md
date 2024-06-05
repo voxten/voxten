@@ -1,6 +1,6 @@
-<span>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=voxten&style=flat-square&color=grey" width="250px">
-</span>
+</p>
 
 
 ## 💎Github Profile Contributions
