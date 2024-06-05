@@ -8,13 +8,13 @@
 
 <div align="center">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=voxten&theme=onedark&show_icons=true&count_private=true&hide_title=true&rank_icon=github&hide_border=true" width="460px" height="175px">
+    <img src="https://github-readme-stats.vercel.app/api?username=voxten&theme=onedark&show_icons=true&count_private=true&hide_title=true&rank_icon=github&hide_border=true" width="360px" height="175px">
   </span>
   <span>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=voxten&theme=onedark&hide_border=true" width="410px" height="175px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=voxten&theme=onedark&hide_border=true" width="325px" height="175px">
   </span>
   <span>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voxten&theme=onedark" width="870px" height="175px">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voxten&theme=onedark" width="1500px" height="165px">
   </span>
 </div>
 
