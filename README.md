@@ -2,13 +2,16 @@
   <img src="https://komarev.com/ghpvc/?username=voxten&style=flat-square&color=grey" width="250px">
 </span>
 
+
 ## 💎Github Profile Contributions
 <span>
   <img src="https://github-readme-stats.vercel.app/api?username=voxten&theme=onedark&show_icons=true&count_private=true&hide_title=true&rank_icon=github&hide_border=true" height="150px">
 </span>
-
 <span>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=voxten&theme=onedark&hide_border=true" height="150px">
+</span>
+<span>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voxten&theme=onedark" width="810px">
 </span>
 
 ## 💻Most Used Language
