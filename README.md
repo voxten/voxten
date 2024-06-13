@@ -1,7 +1,16 @@
+<h1 align="center">Hi, I'm Voxten 👋</h1>
+<h3 align="center">Unity Developer and AI Artist</h3>
+<h4 align="center">Every project should be something unforgettable</h3>
+
+- 🎮At least 10+ games made 
+- ⏲Over 5+ years of game devevelopment experience
+- 📝A lot of ideas and game design basics
+- 🤖AI prompted assets
+- ❌Problem Solver
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=voxten&style=flat-square&color=grey" width="250px">
 </p>
-
 
 ## 💎Github Profile Contributions
 
@@ -38,7 +47,7 @@
   </picture>
 </p>
 
-## 💻Projects 
+## 💻Non Game Projects 
 <p align="center">
   <a href="https://github.com/voxten/web-scrapper" target="_blank">
     <img src="https://socialify.git.ci/voxten/web-scrapper/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Auto" alt="web-scrapper" width="640" height="320" />
