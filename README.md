@@ -59,3 +59,11 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/voxten/couchdb-manager" target="_blank">
+    <img src="https://socialify.git.ci/voxten/couchdb-manager/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Brick%20Wall&theme=Dark" alt="couchdb-manager" width="640" height="320" />
+  </a>
+</p>
+
+
+
