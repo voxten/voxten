@@ -48,22 +48,8 @@
 </p>
 
 ## 💻Non Game Projects 
-<p align="center">
-  <a href="https://github.com/voxten/web-scrapper" target="_blank">
-    <img src="https://socialify.git.ci/voxten/web-scrapper/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Auto" alt="web-scrapper" width="640" height="320" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/voxten/voxten.github.io" target="_blank">
-    <img src="https://socialify.git.ci/voxten/voxten.github.io/image?description=1&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Auto" alt="voxten.github.io" width="640" height="320" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/voxten/couchdb-manager" target="_blank">
-    <img src="https://socialify.git.ci/voxten/couchdb-manager/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Brick%20Wall&theme=Auto" alt="couchdb-manager" width="640" height="320" />
-  </a>
-</p>
-
-
-
+Web Scrapper | Portfolio
+:------------------------------:|:-----------------------------:
+| [![WebScrapper](https://socialify.git.ci/voxten/web-scrapper/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Auto)](https://github.com/voxten/web-scrapper) | [![Portfolio](https://socialify.git.ci/voxten/voxten.github.io/image?description=1&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Auto)](https://github.com/voxten/voxten.github.io)
+CouchDB Manager
+| [![CouchDB](https://socialify.git.ci/voxten/couchdb-manager/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Brick%20Wall&theme=Auto)](https://github.com/voxten/couchdb-manager)
