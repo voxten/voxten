@@ -51,5 +51,5 @@
 Web Scrapper | Portfolio
 :------------------------------:|:-----------------------------:
 | [![WebScrapper](https://socialify.git.ci/voxten/web-scrapper/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Auto)](https://github.com/voxten/web-scrapper) | [![Portfolio](https://socialify.git.ci/voxten/voxten.github.io/image?description=1&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Auto)](https://github.com/voxten/voxten.github.io)
-CouchDB Manager
-| [![CouchDB](https://socialify.git.ci/voxten/couchdb-manager/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Brick%20Wall&theme=Auto)](https://github.com/voxten/couchdb-manager)
+CouchDB Manager | Car Salon
+| [![CouchDB](https://socialify.git.ci/voxten/couchdb-manager/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Brick%20Wall&theme=Auto)](https://github.com/voxten/couchdb-manager) | [![Car Salon](https://socialify.git.ci/voxten/car-salon/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie+Brown&theme=Dark)](https://github.com/voxten/car-salon)
