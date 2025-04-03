@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Voxten 👋</h1>
 <h3 align="center">Unity Developer and AI Artist</h3>
-<h4 align="center">Every project should be something unforgettable</h3>
+<h4 align="center">Every project should leave a lasting impression</h3>
 
 - 🎮At least 10+ games made 
 - ⏲Over 5+ years of game devevelopment experience
